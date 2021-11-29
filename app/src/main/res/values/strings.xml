@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">week_seven</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pikachu">Pikachu</string>
+    <string name="pokemon_character">pokemon character</string>
+</resources>
